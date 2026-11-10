@@ -1,4 +1,3 @@
-# Solidity-Smart-Contracts-Assignment
 # Solidity Smart Contract Assignment
 
 **Name :** Nhat Truong
