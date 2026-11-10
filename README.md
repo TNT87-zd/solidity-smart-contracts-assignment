@@ -3,27 +3,27 @@
 
 **Name :** Nhat Truong
 **Roll No:** 29211164915
-**Email :** your-email@example.com
+**Email :** nhattruong08072005@gmail.com
 
 Design, deploy & test 15 Solidity smart contracts using Remix IDE and Ganache.
 
 | # | Contract | Level | Tested on Ganache | Screenshots |
 |----|-----------------|----------|-------------------|--------------------------------------|
-| 01 | Storage | Basic | YES | 01_compile.png, 01_test1.png, 01_test2.png |
-| 02 | Greeting | Basic | YES | 02_compile.png, 02_test1.png, 02_test2.png |
-| 03 | Counter | Basic | YES | 03_compile.png, 03_test1.png, 03_test2.png |
-| 04 | Ownable | Medium | YES | 04_compile.png, 04_test1.png, 04_test2.png |
-| 05 | SimpleBank | Medium | YES | 05_compile.png, 05_test1.png, 05_test2.png |
-| 06 | Voting | Medium | YES | 06_compile.png, 06_test1.png, 06_test2.png |
-| 07 | MyToken | Medium | YES | 07_compile.png, 07_test1.png, 07_test2.png |
-| 08 | Crowdfunding | Advanced | YES | 08_compile.png, 08_test1.png, 08_test2.png |
-| 09 | Lottery | Advanced | YES | 09_compile.png, 09_test1.png, 09_test2.png |
-| 10 | TimeLockVault | Advanced | YES | 10_compile.png, 10_test1.png, 10_test2.png |
-| 11 | Escrow | Advanced | YES | 11_compile.png, 11_test1.png, 11_test2.png |
-| 12 | SimpleNFT | Advanced | YES | 12_compile.png, 12_test1.png, 12_test2.png |
-| 13 | EnglishAuction | Expert | YES | 13_compile.png, 13_test1.png, 13_test2.png |
-| 14 | MultisigWallet | Expert | YES | 14_compile.png, 14_test1.png, 14_test2.png |
-| 15 | StakingRewards | Expert | YES | 15_compile.png, 15_test1.png, 15_test2.png |
+| 01 | Storage | Basic | YES | 01_compile.jpg,  01_test2.png |
+| 02 | Greeting | Basic | YES | 02_compile.jpg,  02_test2.png |
+| 03 | Counter | Basic | YES | 03_compile.jpg,  03_test2.png |
+| 04 | Ownable | Medium | YES | 04_compile.jpg,  04_test2.png |
+| 05 | SimpleBank | Medium | YES | 05_compile.jpg,  05_test2.png |
+| 06 | Voting | Medium | YES | 06_compile.jpg,  06_test2.png |
+| 07 | MyToken | Medium | YES | 07_compile.jpg,  07_test2.png |
+| 08 | Crowdfunding | Advanced | YES | 08_compile.jpg,  08_test2.pngg |
+| 09 | Lottery | Advanced | YES | 09_compile.jpg,  09_test2.png |
+| 10 | TimeLockVault | Advanced | YES | 10_compile.jpg,  10_test2.png |
+| 11 | Escrow | Advanced | YES | 11_compile.jpg,  11_test2.png |
+| 12 | SimpleNFT | Advanced | YES | 12_compile.jpg,  12_test2.png |
+| 13 | EnglishAuction | Expert | YES | 13_compile.jpg,  13_test2.png |
+| 14 | MultisigWallet | Expert | YES | 14_compile.jpg,  14_test2.png |
+| 15 | StakingRewards | Expert | YES | 15_compile.jpg,  15_test2.png |
 
 ## Repository structure
 
